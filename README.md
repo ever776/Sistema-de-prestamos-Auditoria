@@ -97,6 +97,10 @@ APP_DEBUG=false
 Luego de correr con exito la migracion y los seeders, el sistema crea varios usuarios para comenzar a probar
 
 __Rol__: `admin`
+__User__:`ever@admin.com`
+__Contraseña__:`12345678`
+
+__Rol__: `admin`
 __User__:`admin@admin.com`
 __Contraseña__:`12345678`
 
